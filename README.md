@@ -12,9 +12,9 @@ Développeur apprentis, je partage ici mes projets et mes réalisation.
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-nelles-1b89a2338/)
+[![linkedin](https://img.shields.io/badge/linkedin-7465D0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-nelles-1b89a2338/)
 
-[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_DGS2GugVKRuNgnyvJCyzQ)
+[![youtube](https://img.shields.io/badge/youtube-A6659E?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_DGS2GugVKRuNgnyvJCyzQ)
 
 
 
@@ -28,17 +28,17 @@ Développeur apprentis, je partage ici mes projets et mes réalisation.
 
 
 ## 🛠 Compétences
-[![JavaScript](https://img.shields.io/badge/-JavaScript-5c517b?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-74659E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[![HTML](https://img.shields.io/badge/-HTML-5c517b?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![HTML](https://img.shields.io/badge/-HTML-74659E?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-[![CSS](https://img.shields.io/badge/-CSS-5c517b?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![CSS](https://img.shields.io/badge/-CSS-74659E?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[![Python](https://img.shields.io/badge/-Python-5c517b?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/-Python-74659E?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-[![PHP](https://img.shields.io/badge/-PHP-5c517b?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![PHP](https://img.shields.io/badge/-PHP-74659E?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
-[![C++](https://img.shields.io/badge/-C%2B%2B-5c517b?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C++](https://img.shields.io/badge/-C%2B%2B-74659E?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
 
 
