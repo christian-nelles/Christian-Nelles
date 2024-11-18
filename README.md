@@ -12,9 +12,9 @@ Développeur apprentis, je partage ici mes projets et mes réalisation.
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-7465D0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-nelles-1b89a2338/)
+[![linkedin](https://img.shields.io/badge/linkedin-7465FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-nelles-1b89a2338/)
 
-[![youtube](https://img.shields.io/badge/youtube-A6659E?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_DGS2GugVKRuNgnyvJCyzQ)
+[![youtube](https://img.shields.io/badge/youtube-FF659E?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_DGS2GugVKRuNgnyvJCyzQ)
 
 
 
