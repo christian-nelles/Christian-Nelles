@@ -1,6 +1,7 @@
 # print(ET BAH BIEN LE BONJOUR ! 👋)
 
 <img src="https://github.com/christian-nelles/Christian-Nelles/blob/main/Capture%20d'%C3%A9cran%202024-11-18%20114354.png" />
+bannière faite en code
 
 
 
@@ -10,7 +11,7 @@ Développeur apprentis, je partage ici mes projets et mes réalisation.
 
 
 
-## 🔗 Links
+## 🔗 Liens
 
 [![linkedin](https://img.shields.io/badge/linkedin-7465FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-nelles-1b89a2338/)
 
@@ -18,7 +19,7 @@ Développeur apprentis, je partage ici mes projets et mes réalisation.
 
 
 
-## Autres sections courantes du profil Github
+## Autres sections
 👩‍💻 Je travaille actuellement sur la création de sites web, d'intelligence artificielle et de jeux vidéos
 
 🤔 Je recherche de l'aide pour trouver une alternance
