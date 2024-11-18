@@ -37,40 +37,6 @@ Développeur apprentis, je partage ici mes projets et mes réalisation.
   <span class="badge cpp">C++</span>
 </div>
 
-<style>
-  .badge {
-    color: white;
-    padding: 5px 15px;
-    border-radius: 15px;
-    display: inline-block;
-    text-align: center;
-    font-weight: bold;
-    transition: background-color 0.3s;
-  }
-  .badge:hover {
-    background-color: #555;
-  }
-
-  /* Dégradé pour chaque badge */
-  .js {
-    background: linear-gradient(45deg, #F7DF1E, #FFB81C);
-  }
-  .html {
-    background: linear-gradient(45deg, #E34F26, #F1673A);
-  }
-  .css {
-    background: linear-gradient(45deg, #1572B6, #33A1D1);
-  }
-  .python {
-    background: linear-gradient(45deg, #3776AB, #306998);
-  }
-  .php {
-    background: linear-gradient(45deg, #777BB4, #6C6CC3);
-  }
-  .cpp {
-    background: linear-gradient(45deg, #00599C, #0077B5);
-  }
-</style>
 
 
 
