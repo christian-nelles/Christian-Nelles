@@ -28,17 +28,50 @@ Développeur apprentis, je partage ici mes projets et mes réalisation.
 
 
 ## 🛠 Compétences
-[![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<div style="display: flex; gap: 10px;">
+  <span class="badge js">JavaScript</span>
+  <span class="badge html">HTML</span>
+  <span class="badge css">CSS</span>
+  <span class="badge python">Python</span>
+  <span class="badge php">PHP</span>
+  <span class="badge cpp">C++</span>
+</div>
 
-[![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+<style>
+  .badge {
+    color: white;
+    padding: 5px 15px;
+    border-radius: 15px;
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+  .badge:hover {
+    background-color: #555;
+  }
 
-[![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  /* Dégradé pour chaque badge */
+  .js {
+    background: linear-gradient(45deg, #F7DF1E, #FFB81C);
+  }
+  .html {
+    background: linear-gradient(45deg, #E34F26, #F1673A);
+  }
+  .css {
+    background: linear-gradient(45deg, #1572B6, #33A1D1);
+  }
+  .python {
+    background: linear-gradient(45deg, #3776AB, #306998);
+  }
+  .php {
+    background: linear-gradient(45deg, #777BB4, #6C6CC3);
+  }
+  .cpp {
+    background: linear-gradient(45deg, #00599C, #0077B5);
+  }
+</style>
 
-[![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
-[![PHP](https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-
-[![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
 
 
