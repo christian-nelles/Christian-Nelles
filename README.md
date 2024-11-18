@@ -1,39 +1,42 @@
-```javascript
-// Bienvenue sur mon GitHub 🚀
+# print(ET BAH BIEN LE BONJOUR ! 👋)
 
-const christianNelles = {
-    greeting: "ET BAH BIEN LE BONJOUR ! 👋",
-    aboutMe: {
-        description: "Développeur apprentis, je partage ici mes projets et mes réalisations.",
-        currentlyWorkingOn: [
-            "Création de sites web",
-            "Intelligence artificielle",
-            "Jeux vidéos"
-        ],
-        lookingForHelpWith: "Trouver une alternance",
-        contact: "Vous pouvez me joindre via les liens ci-dessous 👇"
-    },
-    links: {
-        linkedin: "https://www.linkedin.com/in/christian-nelles-1b89a2338/",
-        youtube: "https://www.youtube.com/channel/UC_DGS2GugVKRuNgnyvJCyzQ"
-    },
-    skills: [
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Python",
-        "PHP",
-        "C++"
-    ]
-};
+<img src="https://github.com/christian-nelles/Christian-Nelles/blob/main/Capture%20d'%C3%A9cran%202024-11-18%20114354.png" />
 
-// Affichage des informations (comme dans une console 😉)
-console.log(christianNelles.greeting);
-console.log("À propos de moi :", christianNelles.aboutMe.description);
-console.log("Actuellement, je travaille sur :", christianNelles.aboutMe.currentlyWorkingOn.join(", "));
-console.log("Je recherche de l'aide pour :", christianNelles.aboutMe.lookingForHelpWith);
-console.log("Liens :");
-Object.entries(christianNelles.links).forEach(([platform, link]) => {
-    console.log(`- ${platform}: ${link}`);
-});
-console.log("Compétences :", christianNelles.skills.join(", "));
+
+
+
+## 🚀 À Propos De Moi
+
+Développeur apprentis, je partage ici mes projets et mes réalisation.
+
+
+
+## 🔗 Liens
+
+[![linkedin](https://img.shields.io/badge/linkedin-7465FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-nelles-1b89a2338/)
+
+[![youtube](https://img.shields.io/badge/youtube-FF659E?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_DGS2GugVKRuNgnyvJCyzQ)
+
+
+
+## Autres sections
+👩‍💻 Je travaille actuellement sur la création de sites web, d'intelligence artificielle et de jeux vidéos
+
+🤔 Je recherche de l'aide pour trouver une alternance
+
+📫 Comment me joindre : via mes liens
+
+
+
+## 🛠 Compétences
+[![JavaScript](https://img.shields.io/badge/-JavaScript-74659E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[![HTML](https://img.shields.io/badge/-HTML-74659E?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[![CSS](https://img.shields.io/badge/-CSS-74659E?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[![Python](https://img.shields.io/badge/-Python-74659E?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+[![PHP](https://img.shields.io/badge/-PHP-74659E?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+
+[![C++](https://img.shields.io/badge/-C%2B%2B-74659E?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
