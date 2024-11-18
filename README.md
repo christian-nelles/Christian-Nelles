@@ -41,8 +41,4 @@ Développeur apprentis, je partage ici mes projets et mes réalisation.
 
 [![C++](https://img.shields.io/badge/-C%2B%2B-74659E?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
-
-
-
-
-
+[![Assembly](https://img.shields.io/badge/-Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
